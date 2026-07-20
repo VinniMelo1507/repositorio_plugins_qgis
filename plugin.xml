@@ -12,11 +12,10 @@
   <pyqgis_plugin name="Leitor de Matrículas" version="1.1">
         <description>Plugin faz a leitura de matriculas em pdf e desenha o poligono no mapa.</description>
         <about>Automação de representação.</about>
-        <version>1.1</version> <!-- A versão que está no metadata.txt dele -->
+        <version>1.1</version>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <file_name>leitor_matriculas.zip</file_name>
         <author_name>Vinicius Rodrigues</author_name>
-        <!-- Importante: O link de download do ZIP do NOVO plugin -->
         <download_url>https://github.com/VinniMelo1507/leitor_matriculas_qgis/main/dist/leitor_matriculas.zip</download_url>
     </pyqgis_plugin>
 
