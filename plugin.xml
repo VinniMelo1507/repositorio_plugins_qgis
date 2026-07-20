@@ -19,7 +19,7 @@
         <download_url>https://github.com/VinniMelo1507/leitor_matriculas_qgis/main/dist/leitor_matriculas.zip</download_url>
     </pyqgis_plugin>
 
-  <pyqgis_plugin name="PluginObservatorio" version="1.0.0">
+  <pyqgis_plugin name="Plugin observatorio - Aracaju" version="1.0.0">
         <description>Consulta de inscrições imobiliárias do Observatório de Aracaju.</description>
         <about>Observatório de Aracaju</about>
         <version>1.0.0</version>
@@ -27,7 +27,7 @@
         <homepage>https://github.com/VinniMelo1507/plugin_observatorio</homepage>
         <file_name>plugin_observatorio.zip</file_name>
         <author_name>Ariel Louam</author_name>
-        <download_url>https://raw.githubusercontent.com/VinniMelo1507/plugin_observatorio/main/dist/pluginobservatorio.zip</download_url>
+        <download_url>https://raw.githubusercontent.com/VinniMelo1507/plugin_observatorio/main/dist/plugin_observatorio.zip</download_url>
     </pyqgis_plugin>
 
 </plugins>
