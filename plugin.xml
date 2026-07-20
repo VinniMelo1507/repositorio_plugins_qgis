@@ -22,7 +22,7 @@
   <pyqgis_plugin name="PluginObservatorio" version="1.0.4">
         <description>Consulta de inscrições imobiliárias do Observatório de Aracaju.</description>
         <about>Observatório de Aracaju</about>
-        <version>1.0.4</version>
+        <version>1.0.0</version>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <homepage>https://github.com/VinniMelo1507/plugin_observatorio</homepage>
         <file_name>plugin_observatorio.zip</file_name>
