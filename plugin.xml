@@ -18,10 +18,10 @@
         <author_name>Ariel Louam</author_name>
         <download_url>https://raw.githubusercontent.com/VinniMelo1507/plugin_observatorio/main/dist/plugin_observatorio.zip</download_url>
     </pyqgis_plugin>
-    <pyqgis_plugin name="Plugin representação de matriculas" version="0.3">
+    <pyqgis_plugin name="Plugin representação de matriculas" version="0.3.1">
         <description>Plugin desenvolvido para ajudar na representação de matriculas utilizando OCR.</description>
         <about>Plugin representação de matriculas</about>
-        <version>0.3</version>
+        <version>0.3.1</version>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <homepage>https://github.com/VinniMelo1507/ocr_simples</homepage>
         <file_name>ocr_simples.zip</file_name>
