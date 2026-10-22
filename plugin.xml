@@ -8,10 +8,10 @@
     <author_name>Equipe SEMFAZ - DTIM</author_name>
     <download_url>https://raw.githubusercontent.com/VinniMelo1507/repositorio_sistema_cad/main/dist/sistema_cad.zip</download_url>
   </pyqgis_plugin>
-  <pyqgis_plugin name="Plugin observatorio - Aracaju" version="1.0.3">
+  <pyqgis_plugin name="Plugin observatorio - Aracaju" version="1.5.0">
         <description>Consulta de inscrições imobiliárias do Observatório de Aracaju.</description>
         <about>Observatório de Aracaju</about>
-        <version>1.0.3</version>
+        <version>1.5.00.3</version>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <homepage>https://github.com/VinniMelo1507/plugin_observatorio</homepage>
         <file_name>plugin_observatorio.zip</file_name>
