@@ -2,9 +2,9 @@
 
 <plugins>
 <!--Para atualizações Sistema de Cadastro-->
-  <pyqgis_plugin name="Sistema CAD" version="1.7.3">
+  <pyqgis_plugin name="Sistema CAD" version="1.7.4">
     <description>Plugin para gestão e cadastro georreferenciado.</description>
-    <version>1.7.3</version>
+    <version>1.7.4</version>
     <qgis_minimum_version>3.0</qgis_minimum_version>
     <file_name>sistema_cad.zip</file_name>
     <author_name>Equipe SEMFAZ - DTIM</author_name>
